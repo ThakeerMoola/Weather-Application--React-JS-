@@ -10,12 +10,7 @@ function weather() {
         {/* images */}
         <img src={search_icon} alt=""/>
       </div>
-
-
-
-
-
-      
+      <img src="" alt=""/>
     </div>
   )
 }
