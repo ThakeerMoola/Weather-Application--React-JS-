@@ -2,6 +2,9 @@
 
 This is a **Weather Application** built using **React.js**. It uses the **OpenWeatherMap API** to fetch and display real-time weather data such as temperature, wind speed, and humidity for any city in the world.
 
+![Uploading image.png…]()
+
+
 ---
 
 ## Features 🛠️
